@@ -8,8 +8,7 @@
   },
   "license": "MIT",
   "peerDependencies": {
-    "react-native": "*",
-    "react-native-windows": "0.41.0-rc.1"
+    "react-native": "*"
   },
   "repository": {
     "type": "git",
